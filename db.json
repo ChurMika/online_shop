@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "image": "ellery1.jpg",
+      "name": "Товар 1",
+      "price": 2100,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery2.jpg",
+      "name": "Товар 2",
+      "price": 3150,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "ellery3.jpg",
+      "name": "Товар 3",
+      "price": 4200,
+      "article": "T3",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery4.jpg",
+      "name": "Товар 4",
+      "price": 5300,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery5.jpg",
+      "name": "Товар 5",
+      "price": 6500,
+      "article": "T5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "ellery6.jpg",
+      "name": "Товар 6",
+      "price": 8700,
+      "article": "T6",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery7.jpg",
+      "name": "Товар 7",
+      "price": 5800,
+      "article": "T7",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery8.jpg",
+      "name": "Товар 8",
+      "price": 4300,
+      "article": "T8",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery9.jpg",
+      "name": "Товар 9",
+      "price": 9200,
+      "article": "T9",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery10.jpg",
+      "name": "Товар 10",
+      "price": 1600,
+      "article": "T10",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "ellery11.jpg",
+      "name": "Товар 11",
+      "price": 3900,
+      "article": "T11",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "ellery12.jpg",
+      "name": "Товар 12",
+      "price": 7300,
+      "article": "T12",
+      "available": true,
+      "category": "Мужские"
+    }
+  ]
+}
